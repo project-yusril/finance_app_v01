@@ -1,6 +1,6 @@
 # finance_app_v01
 
-Finance App V01 App Design By Yusril Eka Mahendra
+Finance App V01 App - Yusril Eka Mahendra
 
 ![finance](https://user-images.githubusercontent.com/65325397/116502735-8e632380-a8de-11eb-9d35-e3de9f7efc63.png)
 
